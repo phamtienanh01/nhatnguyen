@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nhatnguyen/static/css/main.073c9b0a.css",
+    "main.js": "/nhatnguyen/static/js/main.40a6f604.js",
+    "index.html": "/nhatnguyen/index.html",
+    "main.073c9b0a.css.map": "/nhatnguyen/static/css/main.073c9b0a.css.map",
+    "main.40a6f604.js.map": "/nhatnguyen/static/js/main.40a6f604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.40a6f604.js"
+  ]
+}
